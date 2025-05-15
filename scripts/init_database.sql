@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS nama_database;
+
 CREATE DATABASE DataWarehouse;
 
 CREATE SCHEMA bronze;

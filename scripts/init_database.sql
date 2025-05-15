@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS nama_database;
+DROP DATABASE IF EXISTS DataWarehouse;
 
 CREATE DATABASE DataWarehouse;
 
